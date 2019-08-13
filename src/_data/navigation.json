@@ -9,6 +9,11 @@
       "text": "Twitter",
       "url": "https://twitter.com/adrianh",
       "external": true
+    },
+    {
+      "text": "LinkedIn",
+      "url": "http://linkedin.com/in/adrianh/",
+      "external": true
     }
   ]
 }
