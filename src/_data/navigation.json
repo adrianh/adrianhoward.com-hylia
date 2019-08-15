@@ -6,6 +6,11 @@
       "external": false
     },
     {
+      "text": "Archive",
+      "url": "/archive/",
+      "external": false
+    },
+    {
       "text": "Twitter",
       "url": "https://twitter.com/adrianh",
       "external": true
