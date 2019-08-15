@@ -10,7 +10,7 @@ Very little of that writing is online & public. Because I have a terrible, terri
 
 Yet — as smart folk often comment — finishing stuff and getting it out there is the important thing.
 
-For example, the styling on those links in the first paragraph is just _awful_. The email isn't configured properly for this domain yet. The colour scheme isn't entirely to my tastes. I don't really understand 95% of the stuff I've used to build this site. There's no "about me" page, or comments, or sensible way to provide feedback. I should fix all those first before putting this live. 
+~~For example, the styling on those links in the first paragraph is just _awful_~~. The email isn't configured properly for this domain yet. The colour scheme isn't entirely to my tastes. I don't really understand 95% of the stuff I've used to build this site. There's no "about me" page, or comments, or sensible way to provide feedback. I should fix all those first before putting this live. 
 
 But I'm not going to.
 
