@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 💩 First Drafts
+title: Home Of 💩 First Drafts
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
