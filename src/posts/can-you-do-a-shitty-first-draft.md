@@ -1,6 +1,8 @@
 ---
 title: Can you do a shitty first draft?
 date: '2019-08-14'
+socialImage: "/images/can-you-do-a-shitty-first-draft/card.png"
+metaDesc: This is a place I'm going to give permission for dumb, ugly, and somewhat 💩 first drafts to live. Spewling mystooks and terrible grammar is to be expected. Along with huge logical errors and general stupidity.
 tags: 
 ---
 
