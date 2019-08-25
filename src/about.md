@@ -2,7 +2,7 @@
 layout: "layouts/page.njk"
 title: About Adrian Howard
 socialImage: "/images/adrianh.jpg"
-metaDesc: A home for dumb, ugly, and nonsensical random thoughts & experiments.
+metaDesc: At my best solving problems where Product, Agile, and UX overlap. These days I mostly do coaching, workshops, training, and the odd talk.
 ---
 
 ![A somewhat pretentious picture of Adrian giving a talk at Lead Developer London 2018. Look at him. Grinning like a loon. For shame.](/images/adrianh.jpg)
