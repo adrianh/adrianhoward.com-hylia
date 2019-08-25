@@ -6,24 +6,14 @@
       "external": false
     },
     {
-      "text": "Archive",
-      "url": "/archive/",
+      "text": "About",
+      "url": "/about/",
       "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/adrianh",
-      "external": true
-    },
-    {
-      "text": "LinkedIn",
-      "url": "http://linkedin.com/in/adrianh/",
-      "external": true
-    },
-    {
-      "text": "Quietstars ",
-      "url": "http://quietstars.com",
-      "external": true
+      "text": "Archive",
+      "url": "/archive/",
+      "external": false
     }
   ]
 }
