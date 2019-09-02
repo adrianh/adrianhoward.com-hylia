@@ -18,7 +18,7 @@ Since I've just had to have this conversation again…
 > 
 > – Henry Ford **did not say this**
 
-This quote often gets thrown at product and user research people as a reason not to talk to customers and end-users. Here's me [ranting at UX Bristol for three minutes](https://vimeo.com/281653646) on why it's dumb and wrong.
+This quote often gets thrown at product and user research people as a reason not to talk to customers and end-users. Here's me [ranting at UX Bristol for three minutes](https://vimeo.com/281653646) on why it's foolish and wrong.
 
 <iframe src="https://player.vimeo.com/video/281653646" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
