@@ -24,7 +24,7 @@ This quote often gets thrown at product and user research people as a reason not
 
 To summarise the three minute rant — Henry Ford didn't say it. The excellent [Quote Investigator has a nice long post on this](https://quoteinvestigator.com/2011/07/28/ford-faster-horse/). The first reference to this quote being assigned to Ford is in a 2001 issue of Marketing Week. When Ford had been dead for a while.
 
-Not that the line makes sense in any case. Because "faster" wasn't the selling point of cars over horses. Speed wasn't the problem. Spending huge amounts of money, time and space on keeping horses alive and dealing with the literal horse shit was the problem. 
+Not that the line makes sense in any case. Because "faster" wasn't the selling point of cars over horses. Speed wasn't the problem. Spending huge amounts of money, time, and space on keeping horses alive and dealing with the literal horse shit was the problem. 
 
 Even better — it turns out that Henry Ford did say this:
 
