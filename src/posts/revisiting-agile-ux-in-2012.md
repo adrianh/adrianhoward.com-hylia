@@ -90,7 +90,7 @@ That strongly hierarchical breakdown of theme/epic/story is something that right
 
 People aren’t always trying to mash everything into epics/themes/user stories and backlogs these days.  We got assumption maps. We got user story maps. We got OKRs. We talk about assumptions and hypotheses and experiments. We talk about vision and strategy deployment. We have kanban boards on the wall that show where discovery is happening, what options we’re trying to explore, and how we’re trying to explore it. All good stuff.
 
-What I do see less of — thank goodness — is that two inch think requirements document folder.
+What I do see less of — thank goodness — is that two inch thick requirements document folder.
 
 ---- 
 
