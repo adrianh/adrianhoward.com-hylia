@@ -26,7 +26,9 @@ First off… the fact that 2012 is seen as ye olden days makes me feel ancient :
 
 I'm gonna attempt to answer this from my POV. I've got some pretty darn obvious biases (UX & Agile are peanut butter and jelly as far as I'm concerned — they go even better together :-)
 
-For framing folk should understand how Janet builds these articles. The question gets emailed out, folk reply, then Janet Six edits everybody’s ramblings into vague coherency. So you don't generally see discussion or comments on other people's answers — since folk aren't in the same room to discuss :-)
+For framing folk should understand how Janet builds these articles. ~~The question gets emailed out, folk reply, then Janet Six edits everybody’s ramblings into vague coherency. So you don't generally see discussion or comments on other people's answers — since folk aren't in the same room to discuss :-)~~
+
+_(The above turned out to be an oversimplification — because Adrian is an idiot who assumes rather than asks — [according to Pabini Gabriel-Petit](https://twitter.com/pabini/status/1220585343855890432) "Janet assembles everyone’s responses, writes the intro, adds headings, & often writes her own responses, then I edit everything & add my own responses, if any. So there are 2 of us who respond to what others have written." :-)_
 
 Let me try and set the context of 2012 a little in Agile/UX relations from my POV. This is coming from memory and I'm currently too lazy to do serious fact checking. So some of these dates may be a tad off. Let me know.
 
