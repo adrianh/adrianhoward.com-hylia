@@ -2,7 +2,7 @@
 title: Facilitating Failure Swap Shops
 date: '2020-02-03'
 socialImage: "/images/failure-swapshop/failure-swapshop-examples.jpg"
-metaDesc: A more tips I've accumulated over the years to facilitate Failure Swap Shops — a great group exercise to celebrate learning from failure.
+metaDesc: Failure Swap Shops are a great group exercise to celebrate learning from failure — here are some tips on how to facilitate a session.
 tags: 
     - Failure
     - Workshop
