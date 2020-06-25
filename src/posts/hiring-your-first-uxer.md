@@ -1,5 +1,5 @@
 ---
-title:  A hiring metaphor for engineers hiring their first UX people
+title:  A story for engineers hiring their first UX person
 date: '2020-06-21'
 socialImage: "/images/hiring-your-first-uxer/card.png"
 metaDesc: This is a metaphor I use a lot when talking with engineers, or ex-engineers, when they're hiring UX people — often their first UX people.
@@ -10,14 +10,14 @@ tags:
     - Testing
     - Quality
     - Debt
-    - Stories
+    - Story
 ---
 
 This is a metaphor I use a lot when talking with engineers, or ex-engineers, when they're hiring UX people — often their first UX people. So I suppose writing it down would be a good move so other people can use / criticise it :-)
 
 ---
 
-Imagine I’m a technical CEO in a small company that’s gone a fair way with their product. It's got traction, but our testing practices are poor trending towards non-existence.
+Imagine I’m a technical CEO in a small company that’s gone a fair way with their product. It's got traction, but our testing practices are poor trending towards non-existent.
 
 We’re not good at automated testing. We don’t have any automated integration tests. We don’t have a continual integration server, let alone anything close to continual delivery. We have this kinda-sorta check list that we run through and call it user acceptance testing — but we’re still shipping stuff with lots of defects. 
 
