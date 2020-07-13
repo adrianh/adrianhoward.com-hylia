@@ -10,11 +10,11 @@ tags:
     - Agile
 ---
 
-Last week I had a [fun little rant on twitter about retrospectives](https://twitter.com/adrianh/status/1278721755155218432). I'm going to move it here  because I think this is going to be worth revisiting. That and reading long things on twitter is a pain the posterior. 
+Last week I had a [fun little rant on twitter about retrospectives](https://twitter.com/adrianh/status/1278721755155218432). I'm going to move it here  because I think this is going to be worth revisiting. That and reading long things on twitter is a pain in the posterior. 
 
 This was triggered by a question about "Team effectiveness: how do you define and measure it?" in a [Product In The Aether](https://www.pita.social/past-events/pita-014) meet up.
 
-One blocker for team effectiveness I've often seen with clients is them failing at retrospectives. Even if you've got great alignment on what outcomes the team should be delivering, it's pointless if they lack the feedback loops to steer them in the right direction.
+One blocker for team effectiveness I've often seen with clients is that they fail at retrospectives. Even if you've got great alignment on the outcomes that should be delivered, it's pointless if the team lacks the feedback loops to steer them in the right direction.
 
 So how do you know when a team is good at retrospectives?
 
