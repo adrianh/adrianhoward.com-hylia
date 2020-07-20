@@ -21,13 +21,9 @@ It's that simple.
 
 The unqualified bullshit artists will still apply. Because they and their dumb-ass egos don't care or understand that they're unqualified.
 
-![A dude telling us that he's a big deal](https://media.giphy.com/media/2sj0zar9vTpBVQx0VQ/giphy-downsized.gif)
-
 The mythical perfect candidate who actually has all of your kinda-would-be-nice-to-have "requirements" will probably still apply — because **they still meet your actual requirements**.
 
 Then again they may just run away — because your random shopping list of requirements has demonstrated that you don't actually understand what the role **needs** in the job advert.
-
-![A terrified unicorn](https://media.giphy.com/media/SiNHGx0XwvwJyjjjjS/giphy.gif)
 
 The **only** people a long list of requirements filters out are people who think you're telling the truth and really need somebody who ticks every item on your list.
 
