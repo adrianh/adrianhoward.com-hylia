@@ -5,10 +5,10 @@ socialImage: "/images/pointless-job-requirements/card.png"
 metaDesc: Putting requirements in your job advert that the job doesn't absolutely require gets you a less qualified pool of applicants.
 tags: 
     - Hiring
-    - Inclusion
     - Management
     - Rant
     - Twitter
+    - Diversity and Inclusion
 ---
 
 _(Originally a [rant on twitter](https://twitter.com/adrianh/status/1283336824543420417) preserved here for easier reading)_

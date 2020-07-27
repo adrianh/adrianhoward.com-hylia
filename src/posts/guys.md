@@ -6,7 +6,7 @@ metaDesc: How I (mostly) broke a thirty year habit of saying something stupid.
 tags: 
     - Guys
     - Language
-    - Inclusion
+    - Diversity and Inclusion
     - Habit
 ---
 

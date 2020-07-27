@@ -6,7 +6,7 @@ metaDesc: "TL;DR: Everybody is an asshole some of the time. Try and be one of th
 tags:
     - Assholes
     - Models
-    - Inclusion
+    - Diversity and Inclusion
 ---
 
 Earlier this year I got involved in a “discussion” with somebody about their sexist language, and how they reacted when they got feedback on that language from one of the people affected. Details unimportant. 
