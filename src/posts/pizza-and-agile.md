@@ -5,7 +5,6 @@ socialImage: "/images/pizza-and-agile/card.png"
 metaDesc: A story about pizza, pizza recipes, and agile that I have found useful on occasion.
 tags:
     - Agile
-    - Language
     - Metaphor
     - Pizza
     - Story
